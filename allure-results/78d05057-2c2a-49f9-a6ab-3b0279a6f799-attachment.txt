@@ -1,0 +1,10 @@
+[ReportManager] Setting "targetOperatingSystem" property with "windows". @29-10-2024 12:52:09.0400 PM
+[ReportManager] Capabilities {acceptInsecureCerts: true, browserName: firefox, moz:debuggerAddress: true, moz:firefoxOptions: {log: {level: warn}, prefs: {remote.active-protocols: 3}, profile: UEsDBBQACAgIAIRmXVkAAAAAAAA...}, pageLoadStrategy: normal, timeouts: {pageLoad: 60000, script: 60000}, unhandledPromptBehavior: ignore, webSocketUrl: true} @29-10-2024 12:52:09.0983 PM
+[ReportManager] Attempting to run locally on: "Windows | Firefox". @29-10-2024 12:52:09.0986 PM
+[ReportManager] Identifying OS/Driver combination. Please note that if a new browser/driver executable will be downloaded it may take some time depending on your connection... @29-10-2024 12:52:09.0986 PM
+[ReportManager] Successfully Opened: "Windows | Firefox". @29-10-2024 12:52:15.0652 PM
+[ReportManager] Initial window size: (1382, 736) @29-10-2024 12:52:15.0676 PM
+[ReportManager] Window size after SWD Maximize: (1382, 736) @29-10-2024 12:52:15.0685 PM
+[ReportManager] Window size after Toolkit: (1366, 768) @29-10-2024 12:52:16.0034 PM
+[ReportManager] Window size after WebDriver.Manage.Window: (1920, 1080) @29-10-2024 12:52:16.0079 PM
+[ReportManager] Maximize window "New screen size is now: (1920, 1080)". @29-10-2024 12:52:16.0087 PM

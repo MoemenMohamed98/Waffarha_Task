@@ -1,0 +1,21 @@
+
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '1 out of 1' test cases in the current suite                                        
+                                                Test Method: 'E1_search.valid_Search_With_TestNG'                                                
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[ReportManager] Target URL: "https://duckduckgo.com/" @29-10-2024 12:52:16.0140 PM
+[ReportManager] Initial URL: "about:blank" @29-10-2024 12:52:16.0163 PM
+[ReportManager] Navigate to url "https://duckduckgo.com/". @29-10-2024 12:52:17.0762 PM
+[ReportManager] Text cleared Using Native Clear @29-10-2024 12:52:19.0039 PM
+[ReportManager] Type "TestNG" into "Search with DuckDuckGo". @29-10-2024 12:52:19.0142 PM
+[ReportManager] Successfully created attachment 'Type - page HTML' @29-10-2024 12:52:19.0152 PM
+[ReportManager] Moved the mouse to the middle of the element. @29-10-2024 12:52:19.0327 PM
+[ReportManager] Click "Search". @29-10-2024 12:52:21.0120 PM
+[ReportManager] Successfully created attachment 'Click - page HTML' @29-10-2024 12:52:21.0140 PM
+[ReportManager] Assert that the element located by "By.xpath: (//span[contains(@class,'EKtkFWMYpwzMKOYr0GYm')])[3]" text is equal to "TestNG Tutorial - Javatpoint". @29-10-2024 12:52:21.0151 PM
+[ReportManager] Expected "TestNG Tutorial - Javatpoint", and actual "TestNG Tutorial - Javatpoint" @29-10-2024 12:52:21.0301 PM
+[ReportManager] Successfully created attachment 'Screenshot - Assert_12-52-23-043_29102024' @29-10-2024 12:52:23.0063 PM
+[ReportManager] Successfully created attachment 'Assert - page HTML' @29-10-2024 12:52:23.0065 PM
+[ReportManager] Expected "TestNG Tutorial - Javatpoint", and actual "TestNG Tutorial - Javatpoint" @29-10-2024 12:52:23.0067 PM
+[ReportManager] Assertion passed @29-10-2024 12:52:23.0068 PM
